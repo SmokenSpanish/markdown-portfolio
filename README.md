@@ -1,1 +1,5 @@
-This repository is a starter portfolio that you can use to learn a little bit about communication using Markdown.
+Hobbies:  
+- Codding
+- Movie watching
+- Music listening
+- Longboarding 
