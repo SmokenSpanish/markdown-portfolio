@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Hobbies:  
+- Codding ⌨
+- Movie watching 🍿
+- Music listening/playing 🎼
+- Longboarding 🛹
