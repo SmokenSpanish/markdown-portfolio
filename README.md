@@ -1,5 +1,5 @@
 Hobbies:  
-- Codding
-- Movie watching
-- Music listening
-- Longboarding 
+- Codding ⌨
+- Movie watching 🍿
+- Music listening/playing 🎼
+- Longboarding 🛹
